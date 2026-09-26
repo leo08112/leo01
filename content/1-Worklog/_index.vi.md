@@ -1,0 +1,20 @@
+---
+title: "Nhật ký công việc"
+date: 2024-09-06
+weight: 1
+chapter: false
+pre: " <b> 1. </b> "
+---
+
+
+Dưới đây là nhật ký công việc chi tiết của tôi qua 5 tuần thực hiện chương trình thực tập First Cloud AI Journey:
+
+**Tuần 1:** [Tổng quan về kiến ​​trúc AWS và tạo tài khoản thực hành](1.1-week1/)
+
+**Tuần 2:** [Tìm hiểu các dịch vụ cốt lõi của AWS: EC2, S3, IAM](1.2-week2/)
+
+**Tuần 3:** [Tìm hiểu về mạng AWS: VPC, Subnet, Internet Gateway](1.3-week3/)
+
+**Tuần 4:** [Tìm hiểu về AWS Lambda và Serverless](1.4-week4/)
+
+**Tuần 5:** [Tìm hiểu về AWS CloudWatch và CloudTrail](1.5-week5/)
